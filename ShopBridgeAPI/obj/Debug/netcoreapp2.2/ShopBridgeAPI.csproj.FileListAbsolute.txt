@@ -1,0 +1,14 @@
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\bin\Debug\netcoreapp2.2\ShopBridgeAPI.deps.json
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\bin\Debug\netcoreapp2.2\ShopBridgeAPI.runtimeconfig.json
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\bin\Debug\netcoreapp2.2\ShopBridgeAPI.runtimeconfig.dev.json
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\bin\Debug\netcoreapp2.2\ShopBridgeAPI.dll
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\bin\Debug\netcoreapp2.2\ShopBridgeAPI.pdb
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.csprojAssemblyReference.cache
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.csproj.CoreCompileInputs.cache
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.RazorAssemblyInfo.cache
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.RazorAssemblyInfo.cs
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.AssemblyInfoInputs.cache
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.AssemblyInfo.cs
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.dll
+C:\Users\yogita.more\source\repos\ShopBridgeAPI\ShopBridgeAPI\obj\Debug\netcoreapp2.2\ShopBridgeAPI.pdb
