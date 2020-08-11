@@ -1,0 +1,8 @@
+// For API project  execution steps
+
+1. Download API solution form gitrepository (https://github.com/yogitamore/ShopBridgeAPI/)
+2. open solution in visual studio (vs 2017).
+3. execute the sql script file from "https://github.com/yogitamore/ShopBridgeAPI/tree/master/SqlScripts" in ssms 
+4. Make changes accordingly in "appsetting.Development.json" of web api project for connection string.
+
+5. Run the application 
